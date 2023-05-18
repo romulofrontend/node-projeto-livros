@@ -1,0 +1,20 @@
+{
+  "name": "node-projeto-livros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romulofrontend/node-projeto-livros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romulofrontend/node-projeto-livros/issues"
+  },
+  "homepage": "https://github.com/romulofrontend/node-projeto-livros#readme"
+}
