@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/romulofrontend/node-projeto-livros/issues"
   },
-  "homepage": "https://github.com/romulofrontend/node-projeto-livros#readme"
+  "homepage": "https://github.com/romulofrontend/node-projeto-livros#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
